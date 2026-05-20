@@ -103,7 +103,7 @@ Enter a number: 153
 ```
 
 To terminate the communication:
-
+Type
 ```text
 exit
 ```
@@ -120,6 +120,6 @@ exit
 
 ---
 
-## ❤️ Made With Love
+
 
 Made with ❤️ by **Deon George**
